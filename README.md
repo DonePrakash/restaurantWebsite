@@ -62,6 +62,6 @@ A beautiful, fully responsive MiniRestaurant website named The Chatori Spot buil
 ## 📦 How to Run Locally
 
 ```bash
-git clone https://github.com/DonePrakash/image-search-engine
-cd image-search-engine
+git clone https://github.com/DonePrakash/restaurantWebsite
+cd Mini Restaurant 
 # Just open index.html in your browser
