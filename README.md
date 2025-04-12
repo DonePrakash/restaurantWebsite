@@ -1,6 +1,6 @@
 # 🍽️ MiniRestaurant Website
 
-A beautiful, fully responsive MiniRestaurant website built using pure HTML, CSS, and JavaScript. This project showcases multiple sections like Home, Menu, Gallery, About, and Contact — all organized in a scalable folder structure. It features smooth navigation, interactive elements, and visual content like food images, all tailored for a modern restaurant experience.
+A beautiful, fully responsive MiniRestaurant website named The Chatori Spot built using pure HTML, CSS, and JavaScript. This project showcases multiple sections like Home, Menu, Gallery, About, and Contact — all organized in a scalable folder structure. It features smooth navigation, interactive elements, and visual content like food images, all tailored for a modern restaurant experience.
 
 ---
 
@@ -58,3 +58,10 @@ A beautiful, fully responsive MiniRestaurant website built using pure HTML, CSS,
 │
 └── README.md               # You're here!
 ```
+
+## 📦 How to Run Locally
+
+```bash
+git clone https://github.com/DonePrakash/image-search-engine
+cd image-search-engine
+# Just open index.html in your browser
