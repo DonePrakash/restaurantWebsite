@@ -18,9 +18,9 @@ A beautiful, fully responsive MiniRestaurant website built using pure HTML, CSS,
 
 ## 🚀 Live Demo
 
-[![MiniRestaurant Preview](./screenshot.png)](https://your-live-site.netlify.app)
+[![MiniRestaurant Preview](./screenshot.png)](https://thechatorispot.netlify.app/)
 
-🔗 **Visit Website**: [https://your-live-site.netlify.app](https://your-live-site.netlify.app)
+🔗 **Visit Website**: [https://your-live-site.netlify.app](https://thechatorispot.netlify.app/)
 
 ---
 
