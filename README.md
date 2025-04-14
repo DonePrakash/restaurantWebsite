@@ -20,7 +20,7 @@ A beautiful, fully responsive MiniRestaurant website named The Chatori Spot buil
 
 [![MiniRestaurant Preview](./screenshot.png)](https://thechatorispot.netlify.app/)
 
-🔗 **Visit Website**: [https://your-live-site.netlify.app](https://thechatorispot.netlify.app/)
+🔗 **Visit Website**: [https://thechatorispot.netlify.app](https://thechatorispot.netlify.app/)
 
 ---
 
